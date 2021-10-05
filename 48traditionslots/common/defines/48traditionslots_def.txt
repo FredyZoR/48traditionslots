@@ -1,4 +1,5 @@
 	NGameplay = {
+		ASCENSION_PERKS_SLOTS = 63
 		TRADITION_CATEGORIES_MAX = 48
 	}
 	NAI = {
